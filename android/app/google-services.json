@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487236760247",
+    "project_id": "loginpage-ccfc7",
+    "storage_bucket": "loginpage-ccfc7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487236760247:android:40a35d87882a54ebbc5332",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487236760247-3cp2ntl2fti19rahpk437vvoltmd3uf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxLcblsFXaVWoXmXDVDGvB7TOWxZReF2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487236760247-3cp2ntl2fti19rahpk437vvoltmd3uf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
